@@ -27,3 +27,8 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## Available Components
+| Components | Description |
+|---|---|
+| SortableButton | Use in table header column to interact with user to specify which column to sort (ascending/descending/no order)  
